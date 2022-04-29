@@ -233,7 +233,7 @@
 
     .aside-header{
         font-family: "BebasNeue";
-        background: url('../img/pxgray.png'), white;
+        background: url('public/img/pxgray.png'), white;
         @apply
 
         leading-10
@@ -400,7 +400,7 @@
     }
 
     .footer-header{
-        background: url('../img/pxgray.png'), white;
+        background: url('public/img/pxgray.png'), white;
         @apply
             bebas
             tracking-wide
